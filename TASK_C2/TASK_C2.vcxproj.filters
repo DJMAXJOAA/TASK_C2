@@ -27,10 +27,34 @@
     <ClCompile Include="230526 232 5번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="230567 232 6번.cpp">
+    <ClCompile Include="230526 232 6번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="230526 232 9번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230529 232 7+8.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230529 회문.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230529 1~10문자출력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230529 305 7번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230529 305 8번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230531 활주길이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230531 두점.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230531 368 회원제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
