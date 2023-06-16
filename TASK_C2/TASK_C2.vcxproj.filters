@@ -72,5 +72,20 @@
     <ClCompile Include="230602 선의 교차점.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="230605 두 직사각형.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230605 원 겹치는거.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230607 랜덤.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230607 랜덤2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230607 100개의 사물함.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
