@@ -220,12 +220,16 @@
     <ClCompile Include="230614 Rectangle2D.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="230616 GeometryicObject.cpp" />
+    <ClCompile Include="230616 GeometryicObject.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="230619 스탑워치.cpp" />
     <ClCompile Include="Cirect2D.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="myPoint.cpp" />
     <ClCompile Include="Rectangle2D.cpp" />
+    <ClCompile Include="StopWatch.cpp" />
     <ClCompile Include="vect.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClCompile>
@@ -238,6 +242,7 @@
     <ClInclude Include="GeometricObject.h" />
     <ClInclude Include="myPoint.h" />
     <ClInclude Include="Rectangle2D.h" />
+    <ClInclude Include="StopWatch.h" />
     <ClInclude Include="vect.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClInclude>
