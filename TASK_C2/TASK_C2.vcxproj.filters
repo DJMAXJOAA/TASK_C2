@@ -129,6 +129,12 @@
     <ClCompile Include="230619 스탑워치.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="230622 로또 랜덤셔플.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="230623 파일.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="vect.h">
